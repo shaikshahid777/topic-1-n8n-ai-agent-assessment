@@ -53,6 +53,10 @@ The OpenAI credential is managed through n8n's credential system. API keys and o
 - Workflow and execution screenshots
 - Workflow documentation PDF
 
+## Demo Video
+
+Loom demonstration: https://www.loom.com/share/57903f39f21f4fdfb22e18ce8f67bca3
+
 ## Notes
 
 This repository is intended as submission evidence for Topic 1. The workflow export references the n8n-managed credential by name and does not include the actual API key.
